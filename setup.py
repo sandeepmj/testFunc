@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='testFunc', ##name of repo enclosing folder (pip-package-demo)
-    version='0.0.3',
+    version='0.0.4',
     author='Sandeep Junnarkar', ## your name
     author_email='sjnews@gmail.com', ## your email
     description='Math functions i use a lot', ## description of package
